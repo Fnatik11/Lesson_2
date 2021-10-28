@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@300;400;700&display=swap');
+body
+{
+    background-color: rgb(178, 235, 245);
+    color: aquamarines;
+    font-family: 'Stick No Bills', sans-serif;
+font-size: 20px;
+font: weight 50px;;
+
+text-decoration: none;
+}
+img{border-radius: 50%;
+background-color: rgb(183, 236, 147);
+
+}
+ul{
+    list-style-type: square;
+}
+a{text-decoration: none;
+}
+
+
+
+    
